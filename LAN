@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/d1c2ea8b80.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <div class="bg-container">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">LAPWORKZ</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav ml-auto">
+                    <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-item nav-link" href="#">About Us</a>
+                    <a class="nav-item nav-link" href="#">Contact</a>
+                    <a class="nav-item nav-link" href="#">Services</a>
+                    <a class="nav-item nav-link" href="#">Follow Us</a>
+
+                </div>
+            </div>
+        </nav>
+
+        <div class="main-container">
+
+            <h1 class="head">Digital Marketing</h1>
+            <p class="para">Digital marketing is a form of marketing that leverages the internet and digital technologies, such as computers and mobile devices, to connect with customers. More than running a sponsored Instagram ad to drive sales, it's a set of practices that interacts with customers at every stage of the buying journey.
+                <br>
+                Digital marketing strategy includes email, social media, advertising, and multimedia messaging that is distributed through mobile and web. Over 60 percent of the global population is online, and more people are joining them every day. That's why companies are now increasing their digital marketing budgets by double-digit figures while traditional marketing gets slashed.
+            </p>
+        </div>
+        <div class="button-container ">
+            <button class="button ">Get Started</button>
+            <button class="btn">Know More</button>
+        </div>
+        <div class="land-page d-flex flex-column justify-content-end">
+            <div class="pageing">
+                <button type="button" class="bottom-section">LAPWORKZ</button>
+                <p class="email d-flex flex-row"><span class="span">Email:</span>alekhya2120@gmail.com</p>
+
+
+                <p class="last-para">My Contact is <span class="span1">8464990313</span> if you have any queries visit to <span class="span">lapworkz.web.app</span> and preffered email is <span class="span2">lapworkz.service@gmail.com</span> and the services are <span class="span1">SEO Development,
+                        Business Growth,
+                        Social Media Managment,
+                        Website Optimization</span> and Community is <span class="span2">Digital Marketing,
+                        Business Ideas,
+                        Website Checkup,
+                        Terms and conditions</span> We provide more Internships and working on the Real Time Projects We Provide The Best Service With Our Tools Like <span class="span">Content Ideas for our Next Project, UI & UX Design & Development, Learn More About Our Guidelines, Develop the Best Strategy for the Business, See The Strategy in the Market, Discover the digital Marketing Trend.</span></p>
+                <hr width="100%" color="skyblue">
+                <p class="ending text-center">Copyright © 2021 d. All Rights Reserved.</p>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
